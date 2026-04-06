@@ -20,6 +20,7 @@ This project presents an interactive HR Attrition Dashboard that analyzes employ
 
 ## 📸 Dashboard Preview
 Dashboard <a href="https://github.com/Pronobcb/-HR-Attrition-Dashboard/blob/main/Dashboard%20-%20HR%20Attrition%20Analysis.png">Dashboard View </a>
+<img width="1329" height="678" alt="Dashboard - HR Attrition Analysis" src="https://github.com/user-attachments/assets/617603a1-f3d4-4fe0-ab6d-80b61a197a2d" />
 
 ---
 
