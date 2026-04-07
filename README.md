@@ -49,7 +49,21 @@ Dashboard <a href="https://github.com/Pronobcb/-HR-Attrition-Dashboard/blob/main
 - Marital Status  
 - Attrition Status  
 ---
+## 📂 Report
+< a href="https://github.com/Pronobcb/HR-Attrition-Dashboard-Excel/blob/main/HR_Attrition_Report.pdf"Report View </a>
+---
 ## 🚀 How to Use
 1. Download or clone this repository  
 2. Open the dashboard file  
-3. Explore the dashboard  
+3. Explore the dashboard
+
+##💡 Skills Demonstrated
+-Data Analysis
+-Dashboard Development
+-Data Visualization
+-Insight Generation
+
+## 👤 Author
+- Pronob chakroborty
+- LinkedIn : www.linkedin.com/in/pronobcb
+- Email : pronob.stat@gmail.com
