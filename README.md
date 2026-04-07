@@ -58,10 +58,10 @@ Dashboard <a href="https://github.com/Pronobcb/-HR-Attrition-Dashboard/blob/main
 3. Explore the dashboard
 ---
 ##💡 Skills Demonstrated
--Data Analysis
--Dashboard Development
--Data Visualization
--Insight Generation
+- Data Analysis
+- Dashboard Development
+- Data Visualization
+- Insight Generation
 ---
 ## 👤 Author
 - Pronob chakroborty
